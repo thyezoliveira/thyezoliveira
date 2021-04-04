@@ -27,15 +27,11 @@ I'm Thyéz Oliveira, i'm 32 years old and i'm Brazilian. I have been practicing 
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
 
 # 👇🏽 How to reach me 
 
 
-<ul style="list-style:none;">
+<ul style="list-style:none;display:flex;justify-content:space-around; flex-wrap:wrap;">
 <!-- Telegram -->
 <li>
 <a href="https://t.me/thyezoliveira">
