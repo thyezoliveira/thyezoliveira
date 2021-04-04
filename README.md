@@ -4,7 +4,7 @@
 I'm Thyéz Oliveira, i'm 32 years old and i'm Brazilian. I have been practicing superficially and autonomously for many years. However, in the last two years, I decided to go deeper into Javascript and would like to pursue a career as a developer. Every day I learn, every day I evolve, every day I meet people who help me to go beyond.
 
 </p>
-<img style="width:150px; float:left; margin-right:40px;" src="https://avatars.githubusercontent.com/u/18426154?v=4">
+<img style="width:250px; height:150px; float:right;" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 
 <ul style="list-style:square;">
 
@@ -34,7 +34,6 @@ I'm Thyéz Oliveira, i'm 32 years old and i'm Brazilian. I have been practicing 
 
 # 👇🏽 How to reach me 
 
-<img style="width:250px; height:150px; float:right;" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 
 <ul style="list-style:none;">
 <!-- Telegram -->
