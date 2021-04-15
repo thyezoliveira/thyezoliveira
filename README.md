@@ -38,18 +38,18 @@ I'm Thyéz Oliveira, i'm 32 years old and i'm Brazilian. I have been practicing 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 </li>
-<!-- Instagram -->
-<li>
+  
+<!-- <li>
 <a href="https://www.instagram.com/thyezoliveira/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </li>
-<!-- Twitter -->
 <li>
 <a href="https://twitter.com/thyezoliveira">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-</li>
+</li> -->
+  
 <!-- LinkedIn -->
 <li>
 <a href="https://www.linkedin.com/in/thyezoliveira/">
