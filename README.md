@@ -1,7 +1,7 @@
 <div>
 <p>
 <h1>Let me introduce my self!</h1><br>
-I'm Thyéz Oliveira, i'm 32 years old and i'm Brazilian. I have been practicing superficially and autonomously for many years. However, in the last two years, I decided to go deeper into Javascript and would like to pursue a career as a developer. Every day I learn, every day I evolve, every day I meet people who help me to go beyond.
+I'm 32 years olded Brazillian learning to code and enjoying it. I've been practicing superficially and autonomously for many years. However, in the last two years, i decided to go deeper into Javascript stack and would like to pursue a career as a developer. Every day I learn, every day I evolve, every day I meet people who help me to go beyond.
 
 </p>
 <img style="width:250px; height:150px; float:right;" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
@@ -9,10 +9,10 @@ I'm Thyéz Oliveira, i'm 32 years old and i'm Brazilian. I have been practicing 
 <ul style="list-style:square;">
 
 <li>
-🔭 I’m currently working on <a href="https://thyezoliveira.github.io/">my website</a>
+🔭 I’m currently working in front-end development.
 </li>
 <li>
-🌱 I’m currently learning about deep vanilla Javascript
+🌱 I’m currently learning about NodeJs.
 </li>
 <li>
 👯 I’m looking to collaborate on dev learning community.
@@ -23,6 +23,9 @@ I'm Thyéz Oliveira, i'm 32 years old and i'm Brazilian. I have been practicing 
 <li>
 💬 Ask me about css.
 </li>
+<li>
+ 😔Don't ask me about Design.
+ </li>
 </ul>
 
 </div>
