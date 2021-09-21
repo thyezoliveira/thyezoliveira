@@ -1,7 +1,7 @@
 <div>
 <p>
 <h1>Let me introduce my self!</h1><br>
-Hi there, i'm a 32 years olded Brazillian enjoying my favorite and peculiar hobby, to wright code! I've been practicing superficially and autonomously for many years. However, in the last two years, i decided to go deeper into programming and would like to pursue a career as a developer. Every day I learn, every day I evolve, every day I meet people who help me to go beyond.
+Hi there, i'm a 32 years olded Brazillian enjoying my favorite and peculiar hobby, to write code! I've been practicing superficially and autonomously for many years. However, in the last two years, i decided to go deeper into programming and would like to pursue a career as a developer. Every day I learn, every day I evolve, every day I meet people who help me to go beyond.
 
 </p>
 <img style="width:250px; height:150px; float:right;" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
