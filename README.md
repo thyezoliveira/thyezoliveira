@@ -53,6 +53,7 @@ Telegram
 </li> -->
   
 <!-- LinkedIn -->
+<ul style='list-style-type:none;display:flex'>
 <li>
 <a href="https://www.linkedin.com/in/thyezoliveira/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -63,7 +64,8 @@ Telegram
 <a href="https://codepen.io/thyezoliveiramonteiro">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
- <p >I would like to see your comment on my pens!</p>
 </li>
 
 </ul>
+
+<p >I would like to see your comments on my pens and codeblock!</p>
