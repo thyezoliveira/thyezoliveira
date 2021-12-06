@@ -1,7 +1,8 @@
 <div>
 <p>
 <h1>Let me introduce my self!</h1><br>
-Hi there, i'm a 32 years olded Brazillian enjoying my favorite activity, to write code! I've been practicing superficially and autonomously for many years. However, in the last two years, i decided to go deeper into programming and would like to pursue a career as a developer. Now i'm a Software engineering student. Every day I learn, every day I evolve, every day I meet people who help me to go beyond.
+Hi there, i'm a 32 years olded Brazillian enjoying my favorite activity, to write code! I've been practicing superficially and autonomously for many years. However, in the last two years, i decided to go deeper into programming and would like to pursue a career as a developer. Now i'm a Software engineering student.
+Nowadays i prefer backend development, but i stil loving frontend and i will learn more about the two ways.
 </p>
 <img style="width:250px; height:150px; float:right;" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 
@@ -11,16 +12,16 @@ Hi there, i'm a 32 years olded Brazillian enjoying my favorite activity, to writ
 🔭 I’m currently working in front-end development.
 </li>
 <li>
-🌱 I’m currently learning about NodeJs.
+🌱 I’m currently learning about backend in python with flask.
 </li>
 <li>
-👯 I’m looking to collaborate on dev learning community.
+👯 I’m looking to collaborate another dev, to learn groupwork.
 </li>
 <li>
-🤔 I’m looking for help with more content to study.
+🤔 I’m looking for help with the principles of MVC.
 </li>
 <li>
-💬 Ask me about css.
+💬 Ask me about html and css.
 </li>
 <li>
  😔Don't ask me about Design.
@@ -30,7 +31,7 @@ Hi there, i'm a 32 years olded Brazillian enjoying my favorite activity, to writ
 </div>
 
 
-# 👇🏽 How to reach me 
+# 👇🏽 How to reach me
 
 
 <ul style="list-style:none;display:flex;justify-content:space-around; flex-wrap:wrap;">
@@ -63,6 +64,7 @@ Hi there, i'm a 32 years olded Brazillian enjoying my favorite activity, to writ
 <a href="https://codepen.io/thyezoliveiramonteiro">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
+ <p >I would like to see your comment on my pens!</p>
 </li>
 
 </ul>
