@@ -34,15 +34,14 @@ Nowadays i prefer backend development, but i stil loving frontend and i will lea
 # 👇🏽 How to reach me
 
 
-<ul style="list-style:none;display:flex;justify-content:space-around; flex-wrap:wrap;">
-<!-- Telegram -->
+<!-- <ul style="list-style:none;display:flex;justify-content:space-around; flex-wrap:wrap;">
+Telegram
 <li>
 <a href="https://t.me/thyezoliveira">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 </li>
-  
-<!-- <li>
+<li>
 <a href="https://www.instagram.com/thyezoliveira/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
