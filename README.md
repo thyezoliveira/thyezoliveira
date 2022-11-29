@@ -1,7 +1,7 @@
 <div>
 <p>
 <h1>Let me introduce my self!</h1><br>
-Hi there, i'm a 32 years olded Brazillian enjoying my favorite activity, to write code! I've been practicing superficially and autonomously for many years. However, in the last two years, i decided to go deeper into programming and would like to pursue a career as a developer. Now i'm a Software engineering student.
+Hi there, i'm a 32 years olded Brazillian enjoying my favorite activity, to write code! I've been practicing superficially and autonomously for many years. However, for the last two years, i decided to go deeper into programming and would like to pursue a career as a developer. Now i'm a Software engineering student.
 Nowadays i prefer backend development, but i stil loving frontend and i will learn more about the two ways.
 </p>
 <img style="width:250px; height:150px; float:right;" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
