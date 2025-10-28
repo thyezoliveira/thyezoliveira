@@ -1,27 +1,26 @@
 <div>
 <p>
 <h1>Let me introduce my self!</h1><br>
-Hi there, i'm a 35 years old Brazillian enjoying my favorite activity, to write code! I've been practicing superficially and autonomously for many years. However, for the last two years, i decided to go deeper into programming and would like to pursue a career as a developer. Now i'm a Software engineering student.
-Nowadays i prefer backend development, but i stil loving frontend and i will learn more about the two ways.
+Hi there, i'm Thyéz, i'm a 36 years old Brazillian enjoying my favorite activity, to create software! I've been practicing for many years. However, for the last five years, i decided to go deeper into programming and would like to pursue a career as a developer. Now i'm a Software engineer.
 </p>
 <img style="width:250px; height:150px; float:right;" src="https://media0.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 
 <ul style="list-style:square;">
 
 <li>
-🔭 I’m currently working in front-end development.
+🔭 I’m currently working in custo software development.
 </li>
 <li>
-🌱 I’m currently learning about backend in python with flask.
+🌱 I’m currently learning about Next.js.
 </li>
 <li>
-👯 I’m looking to collaborate another dev, to learn groupwork.
+👯 I’m looking to collaborate another dev, to learn remote groupwork.
 </li>
 <li>
-🤔 I’m looking for help with the principles of MVC.
+🤔 I’m looking for help with the principles of Leading groups.
 </li>
 <li>
-💬 Ask me about html and css.
+💬 Ask me about python3, html, css, js, oop and api Rest.
 </li>
 <li>
  😔Don't ask me about Design.
@@ -35,23 +34,11 @@ Nowadays i prefer backend development, but i stil loving frontend and i will lea
 
 
 <!-- <ul style="list-style:none;display:flex;justify-content:space-around; flex-wrap:wrap;">
-Telegram
-<li>
-<a href="https://t.me/thyezoliveira">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-</li>
 <li>
 <a href="https://www.instagram.com/thyezoliveira/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </li>
-<li>
-<a href="https://twitter.com/thyezoliveira">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-</li> -->
-  
 <!-- LinkedIn -->
 <ul style='list-style-type:none;display:flex'>
 <li>
