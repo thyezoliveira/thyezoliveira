@@ -8,7 +8,7 @@ Hi there, i'm Thyéz, i'm a 36 years old Brazillian enjoying my favorite activit
 <ul style="list-style:square;">
 
 <li>
-🔭 I’m currently working in custo software development.
+🔭 I’m currently working in custom software development.
 </li>
 <li>
 🌱 I’m currently learning about Next.js.
